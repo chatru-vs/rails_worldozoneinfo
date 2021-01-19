@@ -1,6 +1,6 @@
-# Rails Worldzoneinfo.
+# Rails Worldozneinfo.
 
-This app helpful to get Rails Worldzoneinfo by zipcode.
+This app helpful to get Rails Worldozneinfo by zipcode.
 
 # Install bundle
 
