@@ -1,5 +1,13 @@
-# RAILS OZONE APP
+# Rails Worldzoneinfo.
 
-This app looks up the current OZONE level by zipcode.
+This app helpful to get Rails Worldzoneinfo by zipcode.
 
-Copyright (c) 2019 Codemy.com - John Elder
+# Install bundle
+
+bundle install 
+
+# Run Server
+
+rails server
+
+@copyright - Chatrughan Prasad
